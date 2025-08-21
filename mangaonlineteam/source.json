@@ -1,9 +1,12 @@
 {
   "id": "mangaonlineteam",
-  "name": "MangaOnlineTeam",
-  "version": 1,
-  "author": "YourName",
   "lang": "en",
+  "name": "MangaOnlineTeam",
+  "type": "manga",
+  "version": 1,
   "url": "https://mangaonlineteam.com",
-  "description": "Aidoku source for mangaonlineteam.com"
+  "nsfw": 0,
+  "scripts": [
+    "source.lua"
+  ]
 }
